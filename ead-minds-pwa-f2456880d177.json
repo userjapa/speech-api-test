@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ead-minds-pwa",
+  "private_key_id": "f2456880d177fcd1941c9b74d3fb3770d30d36b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2imWYQKE62VA4\nOv9CpIldJpemmk/2y+W9MnrjRaSd5DS6zUJdq4ZYdj8NvYpljZ+J+wNiPX+FTehw\n7Z7LE/LLmrOSjLZRbJ7nG7+kehXiaddUv0dR3nXXqMUtVNs5HLZ1b5K/HmmvSstI\nVEDCTVFdYXAqQ98omzLAwHYf79BCgnTFvYwV6vR37265ER49GUzXcrnxWZ+UnhjH\n9hlpQhbvIRoCZvNZPy5HZVYfYHEXpFKRXcHxzqUuT5Vae+qDe1Zwdc1kWGMX8q7r\nbQwV4m28OtJ01Yb7TImXsCCwQI7bWfeiHpgK4jEfudF9cu6s6OegxZdIRMJYfoeY\nFdNCbbVRAgMBAAECggEAAbwSRvWnkceVXg86XdXFnloVK/kLwfZzy+k2iFGkRMT+\ncG9a/LwQlQdZiV6z+Z70c82iVw9q7Nj8OLoBjCNRdE7XgbDGzc9oOdDUzXO+TZI+\nsLExMYZJdNIhEdsmBFHJOCSZbQNLyW9YVXfjZjR93a/k/pBtOgcr1SlDDU7Eg7ES\nV35FRKeCpIZ3ymffVb0O3BUCy0zOX+UKPyqMwuECHBBd8HGy8BO28ZZ/DYM+twv/\nxlENBb2NyziIMzCNT+bMnvfwGQaBMTMDMupkQqnZgBJihaMLbh5mQNqufQ7mD4P6\nN0gNHhYNMIoznhDziinBWWzxzjAw8lalbVM780ljwQKBgQDe7gNpJVuxGnwthHrY\nwc7aEqknsI+Te5W0P5yLOaUnuTyPjZzAQaLKw33GHl9G8fC+3X8bLvX8drJk+FYv\nydKMuMfn9vLJxn/M89axHFA+egu27Ttkls8bbmp4eT2CAtKK8PDDSVxtrPsdyqwp\nbssnCRzMF7N3c6GIr5GEi4AlQQKBgQDRnpCW6z7LkaZc5UoCVM20P6tCuD3jTNsO\njX/r1+Voe7RlC67I1DUGieeoqd3uU6GNub9iiOBx2g4RBB9zJhdKdoILm+A9gJMF\n1zh68U4BZYKR1nyri70b7Zp188IfFe9vLOOoFvfI41I0wdbLR3rlvohC6VVE8SrC\n0EKMejA8EQKBgBuWPJnQY65g5qkDUehs41odIQ2mTb4kdvwdOxQHiCaIR7REA/fO\np4SL+I6Bx6yR2AbmhgopH4ukbKMOECxNv15mp2ZPKvBJPhtwuUqlhFCW7cgvR0BF\nYU+1tDtAVZo3GzLSahjghS2VUGX5ZKCj80PbXtLqw+yuRHkTsOBEGxGBAoGAShO3\nFR5dOqNmHz4IQXqmlyRI6XMiq8jlQOdQZZAOSjYtMehHBEG5222wqDIfc7GqTeNu\nduvYJWPhxLGoS5ESegYXPvL+870UN+Qu2YOdBXFSCye5NwZS9iOpijVyTHn7+1Xp\nveUf+6YZzvsRZRUFoVsL3FmJAKwZaG8glXQ4x4ECgYBBNXaQHyxXg9Tg4KRkkzHz\n6wzUcpB/fWcJlkbuiTmnQGnmaiVbyUe0maM4dBVPc+XbUzbN+3JhIbMUPK6sXV6d\n6ZoAEX/UB0tOQCruutGhaBDACciZPSJLv81aO2Epcm3IyA7NKPI9zq4uoB9irZES\nJUqGt3UUXLYdpxTR6x+GWg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ead-minds@ead-minds-pwa.iam.gserviceaccount.com",
+  "client_id": "113903421595721853678",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ead-minds%40ead-minds-pwa.iam.gserviceaccount.com"
+}

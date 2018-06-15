@@ -1,0 +1,24 @@
+{
+  "name": "speech-api",
+  "version": "1.0.0",
+  "description": "Google Cloud Text-to-Speech-API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^0.1.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "serve-static": "^1.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "repository": "https://github.com/usuarioJapa/speech-api-test.git",
+  "author": "userjapa",
+  "license": "MIT",
+  "private": false
+}
